@@ -1,0 +1,19 @@
+body{
+background-color: black
+}
+#id1{
+    font-size: 90px;
+    font-family: cursive;
+    color: darkblue;
+}
+#id2{
+    font-size: 30px;
+    font-family: cursive;
+    color: lightblue;
+}
+
+.ref{
+    font-size: 20px;
+    font-family: bold;
+    color: green;
+}
