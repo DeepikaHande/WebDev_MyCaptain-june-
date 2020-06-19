@@ -1,0 +1,13 @@
+body{
+    padding: 320px;
+    background-color: black
+}
+label{
+    color: darkblue;
+    font-family: cursive;
+}
+input{
+    border-radius: 25px;
+    font-family: cursive;
+    color: deepskyblue;
+}
