@@ -1,19 +1,12 @@
-<html>
-    <head>
-        <title>
-            Hello World
-        </title>
-        <link style="text" rel="stylesheet" type="text/css" href="style.css">
-    </head>
-    <body>
-        <h1 id="id1">Hello World</h1>
-        <p id="id2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </body>
-    <br>
-    <br>
-    <ul class="ref">
-        <li><a href="">About</a></li>
-        <br>
-        <li><a href="https://webwurx.in/" target="_blank">WebWurks</a></li>
-    </ul>
-</html>
+1. Create a simple page with the heading 'Hello World'.
+Below heading Provide two links. Say A. About and B. WebWurx: https://webwurx.in/.
+
+A. Use relative to connect to about page.
+
+B. Use absolute path to connect to the google website and open in a new window or tab. - 10 mins (Mandatory)
+
+2.Create a website with multiple pages(home, about, contact).
+Each page must be having a navigation link to connect to the other pages of the website.
+And each page must have one heading and one paragraph.
+There must be a different background color for each page.
+Use external stylesheet to apply styles. - 25 mins (Mandatory)
